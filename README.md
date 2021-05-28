@@ -2,14 +2,13 @@
 
 ![header](https://capsule-render.vercel.app/api?type=shark&color=auto&height=250&section=header&text=GunO's%20GitHub&fontSize=70&animation=scaleIn)
 
-<img src="https://img.shields.io/badge/텍스트-색상?style=flat-square&logo=아이콘이름&logoColor=white"/>
+<img src="https://img.shields.io/badge/Test-색상?style=flat-square&logo=아이콘이름&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
 
+<a href="https://https://velog.io/@bgo517"><img src="https://img.shields.io/badge/velog-1DBF73?style=flat-square&logo=Vimeo&logoColor=white"/></a>
 
 ![GunO's GitHub stats](https://github-readme-stats.vercel.app/api?username=guno517&show_icons=true)
-
-<a href="https://https://velog.io/@bgo517"><img src="https://img.shields.io/badge/velog-1DBF73?style=flat-square&logo=Vimeo&logoColor=white"/></a>
 
 <div align='center'>
 - 🔭 I’m currently working on ...
