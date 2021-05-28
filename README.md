@@ -6,7 +6,6 @@
 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/React%20Router-CA4245?style=flat-square&logo=React%20Router&logoColor=white"/>
 
 ![GunO's GitHub stats](https://github-readme-stats.vercel.app/api?username=guno517&show_icons=true)
 
@@ -14,7 +13,7 @@
 
 <div align='center'>
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning React
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
