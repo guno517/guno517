@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+![header](https://capsule-render.vercel.app/api?type=shark&color=auto&height=250&section=header&text=Eunjeong's%20GitHub&fontSize=70&animation=scaleIn)
+
+<img src="https://img.shields.io/badge/텍스트-색상?style=flat-square&logo=아이콘이름&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/React%20Router-CA4245?style=flat-square&logo=React%20Router&logoColor=white"/>
+
 <!--
 **guno517/guno517** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
