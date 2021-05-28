@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![header](https://capsule-render.vercel.app/api?type=shark&color=auto&height=250&section=header&text=Eunjeong's%20GitHub&fontSize=70&animation=scaleIn)
+![header](https://capsule-render.vercel.app/api?type=shark&color=auto&height=250&section=header&text=GunO's%20GitHub&fontSize=70&animation=scaleIn)
 
 <img src="https://img.shields.io/badge/텍스트-색상?style=flat-square&logo=아이콘이름&logoColor=white"/>
 
