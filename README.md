@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=shark&color=auto&height=250&section=header&text=GunO's%20GitHub&fontSize=70&animation=scaleIn)
 
-<img src="https://img.shields.io/badge/Test-색상?style=flat-square&logo=아이콘이름&logoColor=white"/>
+<!-- <img src="https://img.shields.io/badge/Test-색상?style=flat-square&logo=아이콘이름&logoColor=white"/> -->
 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
 
