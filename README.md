@@ -6,7 +6,7 @@
 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
 
-<a href="https://https://velog.io/@bgo517"><img src="https://img.shields.io/badge/velog-1DBF73?style=flat-square&logo=Vimeo&logoColor=white"/></a>
+<a href="https://velog.io/@bgo517"><img src="https://img.shields.io/badge/velog-1DBF73?style=flat-square&logo=Vimeo&logoColor=white"/></a>
 
 ![GunO's GitHub stats](https://github-readme-stats.vercel.app/api?username=guno517&show_icons=true)
 
